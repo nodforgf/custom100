@@ -12,8 +12,8 @@ const WISHES = [
   { id: 6,  text: "อยากไปดูหนังด้วยกันทุกๆเดือน 🌠",  color: "#fff0f8" },
   { id: 7,  text: "อยากทำให้แฟนมีความสุขที่สุด 🫶",          color: "#ffd6e7" },
   { id: 8,  text: "อยากบอกรักเธอในทุกๆเช้า 🥺🤍",         color: "#fce4ec" },
-  { id: 9,  text: " ",            color: "#fff0f8" },
-  { id: 10, text: " ",            color: "#ffd6e7" },
+  { id: 9,  text: "อยากอยู่กับแฟนไปนานๆ 🫂",            color: "#fff0f8" },
+  { id: 10, text: "อยากนอนดูหนังด้วยกัน 🎬",            color: "#ffd6e7" },
 ];
 
 // ตำแหน่งกระดาษในโหล (x, y, rotate) — อยู่ใน viewBox 300x360
